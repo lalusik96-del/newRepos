@@ -1,5 +1,7 @@
 {"new_field":"значение", "second_field": "другое значение"} 
-{"user":
+
+{
+    "user":
     {
         "name": "Иван",
         "age":30
